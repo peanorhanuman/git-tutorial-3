@@ -1,3 +1,3 @@
-conflict 2 also
+conflict 1
 commit 2
 commit 3
